@@ -140,13 +140,3 @@
   <img width="90%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=logicc-17&layout=compact&theme=radical&hide_border=true&langs_count=8" style="border-radius: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.2);" />
 </div>
 
-<style>
-  @keyframes widthGrow {
-    from { width: 0; opacity: 0; }
-    to { width: auto; opacity: 1; }
-  }
-  @keyframes fadeIn {
-    from { opacity: 0; }
-    to { opacity: 1; }
-  }
-</style>
