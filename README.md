@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Themba</h1>
-<h3 align="center">A passionate Backend developer from Malawi</h3>
+<h1 align="center">Sup 👋, I'm Themba</h1>
+<h3 align="center">A passionate Fullstack developer from Malawi</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=logicc-17" alt="logicc-17" /></a> </p>
 
