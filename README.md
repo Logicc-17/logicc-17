@@ -4,8 +4,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=logicc-17" alt="logicc-17" /></a> </p>
 
 - 🔭 I’m currently working on **ai image generator**
-
-<h3 align="left">Connect with me:</h3>
+![My GIF](https://github.com/Logicc-17/Logicc-17/Season 8 Nbc GIF by The Office.gif)
 <p align="left">
 </p>
 
