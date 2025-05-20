@@ -4,9 +4,10 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=logicc-17" alt="logicc-17" /></a> </p>
 
 - 🔭 I’m currently working on **ai image generator**
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXFmYjViNWFyNWZudWJveGNrdmc0ODNsaW1rNTI2azZ3NnZ0dmxxNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zhRA0okWxTGiu78uSk/giphy.gif" width="300" height="200">
-
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHY0ejhmMHl1MXFzaDR5cWtiOHl4Z2p0Yzdma2gya3dyaGJ6eHNwYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DqiMTFxiXx0VaVZQbF/giphy.gif">
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXFmYjViNWFyNWZudWJveGNrdmc0ODNsaW1rNTI2azZ3NnZ0dmxxNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zhRA0okWxTGiu78uSk/giphy.gif" width="300" height="200" style="display: inline-block; margin: 0 10px;">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHY0ejhmMHl1MXFzaDR5cWtiOHl4Z2p0Yzdma2gya3dyaGJ6eHNwYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DqiMTFxiXx0VaVZQbF/giphy.gif" width="300" height="200" style="display: inline-block; margin: 0 10px;">
+</p>
 <p align="left">
 </p>
 
