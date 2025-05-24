@@ -1,5 +1,6 @@
-<h1 align="center">👋 Wazzapppp, I'm Themba</h1>
-<h3 align="center">🚀 Fullstack Developer | AI Enthusiast | Malawi</h3>
+<h1 align="center"> 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00F72D&center=true&width=600&lines=Hey+%F0%9F%91%8B%2C+I'm+Themba;Fullstack+Dev+%7C+AI+Enthusiast;From+Malawi+%F0%9F%8F%96%EF%B8%8F">
+</h1>
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
