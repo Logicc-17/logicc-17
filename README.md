@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello World, I'm Themba</h1>
+<h1 align="center">👋 Wazzapppp, I'm Themba</h1>
 <h3 align="center">🚀 Fullstack Developer | AI Enthusiast | Malawi</h3>
 
 <div align="center">
