@@ -17,7 +17,7 @@
 </div>
 ---
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F72D&background=000000&center=true&vCenter=true&width=800&height=100&lines=%F0%9F%92%BB+Tech+Stack+%F0%9F%92%BB;React+%E2%9A%99%EF%B8%8F+Node.js+%E2%9A%99%EF%B8%8F+TensorFlow+%E2%9A%99%EF%B8%8F+Flutter" alt="Holographic Tech Stack">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F72D&background=000000&center=true&vCenter=true&width=800&height=100&lines=%F0%9F%92%BB+New+Skills+%F0%9F%92%BB;React+%E2%9A%99%EF%B8%8F+Next.js+%E2%9A%99%EF%B8%8F+TensorFlow+%E2%9A%99%EF%B8%8F+Python" alt="Holographic Tech Stack">
 </div>
 
 
