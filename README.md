@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmN4d2JtdDI4amhvN2J6enJyNDk5OTU0cWlhdGdrZW5waHIxZmZ5OSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/6FWpozKBgrQD4MZwDC/giphy.gif">
+</div>
 <h1 align="center"> 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00F72D&center=true&width=600&lines=Hey+%F0%9F%91%8B%2C+I'm+Themba;Fullstack+Dev+%7C+AI+Enthusiast;From+Malawi+%F0%9F%8F%96%EF%B8%8F">
 </h1>
