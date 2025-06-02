@@ -1,6 +1,13 @@
 <div align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGx6cmFub3dkaDZtZnFiM2NidjZlcW1wdDQ0aXpsYWRmM2QxNGR2NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/C4NdKtRaQE9m8/giphy.gif">
+</div>
+
+
+<div align="center">
+  <h1>Do Not Disturb!</h1>
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmN4d2JtdDI4amhvN2J6enJyNDk5OTU0cWlhdGdrZW5waHIxZmZ5OSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/6FWpozKBgrQD4MZwDC/giphy.gif">
 </div>
+
 <h1 align="center"> 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00F72D&center=true&width=600&lines=Heyyy+%F0%9F%91%8B%2C+I'm+Themba;Fullstack+Dev+%7C+AI+Enthusiast;From+Malawi+%F0%9F%8F%96%EF%B8%8F">
 </h1>
@@ -11,14 +18,17 @@
   </a>
 </div>
 
----
-
 ### 🔥 Current Project
 **Building an AI Image Generator** - Exploring the intersection of creativity and machine learning
 <div align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWpveTVuNzFnMmMwd2o5ancwMjRld3NoZXJ6YmtpaDkzbnpuZnhzaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0lGd2OXXHe4tFhb7Wh/giphy.gif">
+  
 </div>
 ---
+
+</div>
+
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F72D&background=000000&center=true&vCenter=true&width=800&height=100&lines=%F0%9F%92%BB+New+Skills+%F0%9F%92%BB;React+%E2%9A%99%EF%B8%8F+Next.js+%E2%9A%99%EF%B8%8F+TensorFlow+%E2%9A%99%EF%B8%8F+Python" alt="Holographic Tech Stack">
 </div>
@@ -34,17 +44,12 @@
 </div>
 
 ---
-
-### 🛠️ Tech Stack
-<div align="center">
-  <!-- Frontend -->
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50" style="margin: 5px;"/>
-  </a>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="50" height="50" style="margin: 5px;"/>
-  </a>
-  
+### 🛠️ Tech Stack  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
   <!-- Backend -->
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50" style="margin: 5px;"/>
@@ -69,10 +74,9 @@
     <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="50" height="50" style="margin: 5px;"/>
   </a>
 </div>
-
-
-
 ---
+
+
 
 ### 📊 GitHub Stats
 <div align="center">
