@@ -83,9 +83,9 @@
   </div>
   <p>I love anime, manga, novels, and gaming! Currently obsessed with:</p>
   <ul style="display: inline-block; text-align: left;">
-    <li>🎮 Elden Ring</li>
-    <li>📖 Chainsaw Man manga</li>
-    <li>🍥 Naruto rewatch</li>
+    <li>🎮 brawlhalla</li>
+    <li>📖 Opiece manga</li>
+    <li>🍥 Horimiya rewatch</li>
   </ul>
 </div>
 
