@@ -84,7 +84,7 @@
   <p>I love anime, manga, novels, and gaming! Currently obsessed with:</p>
   <ul style="display: inline-block; text-align: left;">
     <li>🎮 brawlhalla</li>
-    <li>📖 Opiece manga</li>
+    <li>📖 One piece manga</li>
     <li>🍥 Horimiya rewatch</li>
   </ul>
 </div>
