@@ -1,142 +1,159 @@
+<!-- =====================[ BOOT SEQUENCE ]===================== -->
+
 <div align="center">
 
-  <!-- HERO / HEADER -->
-  <img src="https://media4.giphy.com/media/C4NdKtRaQE9m8/giphy.gif" width="100%" />
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc25henhzMmQ1bnlreGsyYzJxeDhqb3R2OWhjZGQzM2d0ZzRhNXR3diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l8G8sdTRURRBANPpPR/giphy.gif" width="100%" height="100%" />
 
-  <h1>🚧 Do Not Disturb — Building in Progress 🚧</h1>
+<br/>
 
-  <img src="https://media.giphy.com/media/6FWpozKBgrQD4MZwDC/giphy.gif" width="280"/>
+<h1 style="font-family: monospace; color: #00ffee;">
+> SYSTEM ONLINE
+</h1>
 
-  <!-- Typing Intro -->
-  <h2>
-    <img src="https://readme-typing-svg.herokuapp.com
-      ?font=Fira+Code
-      &weight=700
-      &size=28
-      &pause=1000
-      &color=00F72D
-      &center=true
-      &width=650
-      &lines=Hey+👋,+I'm+Themba;
-              Fullstack+Dev+⚡+AI+Explorer;
-              Building+from+Malawi+🏞️"
-      alt="Typing Animation" />
-  </h2>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code+Bold&size=28&pause=1000&color=FF073A&center=true&vCenter=true&width=600&lines=Themba+Longwe;Full-Stack+Developer;Exploring+Systems%2C+Signals%2C+and+Entropy;Curiosity+Driven+Builder" />
 
-  <p>
-    <b>Builder. Breaker. Learner.</b><br>
-    Turning curiosity into systems — one repo at a time.
-  </p>
 
 </div>
 
 ---
 
-## 🧭 Current Focus
+<!-- =====================[ SIGNAL NOISE ]===================== -->
 
 <div align="center">
 
-### ✨ Living Documentation Engine
-**Network visibility • Security awareness • Deep learning by building**
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGVpbnpuOWduZXYxa2EyNmJsaHRzbms1eno5YXF4bGZ5eng1ZGwxYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RwvNM1uQpEaDLdM7yN/giphy.gif" width="600"/>
 
-Monitoring system connections, logging intelligence, and auto-researching vulnerabilities —  
-not just for security, but for *understanding how systems really behave*.
+</div>
 
-<img src="https://media3.giphy.com/media/0lGd2OXXHe4tFhb7Wh/giphy.gif" width="420"/>
+```txt
+> Listening to packets.
+> Watching memory shift.
+> Reading between instructions.
+> Building where abstractions leak.
+```
+
+---
+
+<!-- =====================[ CORE PROCESSES ]===================== -->
+
+### 🧠 `ACTIVE_PROCESSES`
+
+```txt
+[ PID:0001 ] Observing how systems behave under pressure
+[ PID:0002 ] Breaking abstractions to understand internals
+[ PID:0003 ] Turning curiosity into working software
+[ PID:0004 ] Following signals: networks, protocols, entropy
+```
+
+<div align="right">
+<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="300"/>
+</div>
+
+---
+
+<!-- =====================[ MODULE MAP ]===================== -->
+
+### ⚙️ `LOADED_MODULES`
+
+```diff
++ frontend.ui        → interfaces that feel alive
++ backend.logic      → APIs, data flow, state
++ system.boundaries  → OS, memory, processes
++ network.signals    → packets, sockets, protocols
++ crypto.primitives  → hashes, ciphers, trust
+```
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=js,ts,react,next,node,python,java,c,linux,docker,git,postgres&theme=dark" />
 
 </div>
 
 ---
 
-## 🛠️ Tech Arsenal
+<!-- =====================[ ENCRYPTED CHANNEL ]===================== -->
+
+### 🔐 `SECURE_CHANNEL_ESTABLISHED`
 
 <div align="center">
+<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="500"/>
+</div>
 
-### 💻 Languages
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white"/>
+```txt
+Entropy increases.
+Keys are negotiated.
+Trust is never assumed.
 
-### 🎨 Frontend
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+I’m interested in what happens
+before encryption works —
+and after it fails.
+```
 
-### ⚙️ Backend
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+- Protocols, not buzzwords  
+- Behavior under attack, not theory  
+- Curiosity over credentials  
 
-### 🧠 AI / ML
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+---
 
-### 🗄️ Databases
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<!-- =====================[ NETWORK TRACE ]===================== -->
 
+### 📡 `NETWORK_ACTIVITY`
+
+```txt
+→ SYN sent
+← ACK received
+→ Data flows
+← Latency observed
+```
+
+<div align="center" justify="center">
+<img src="https://media.giphy.com/media/l41lQmKdyxLl0mTnO/giphy.gif" width="600"/>
+</div>
+
+```txt
+Some people see the web.
+I see layers.
+```
+
+---
+
+<!-- =====================[ SYSTEM TELEMETRY ]===================== -->
+
+### 📊 `SYSTEM_TELEMETRY`
+
+<div align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXhwbzBqbGNrdmJqYTA4N2VuY2d1MHh3ODN6bnRtajE5NmNudnFsYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AhhGtrpj5ZxGZER5yC/giphy.gif" />
+</div>
+
+
+
+---
+
+<!-- =====================[ BUILD PIPELINE ]===================== -->
+
+### 🛠️ `BUILD_PIPELINE`
+
+```txt
+think → break → rebuild
+observe → test → refine
+read docs → read source → read behavior
+```
+
+<div align="center">
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="500"/>
 </div>
 
 ---
 
-## 🎮 When I’m Not Coding
+<!-- =====================[ TERMINAL FOOTER ]===================== -->
 
 <div align="center">
 
-<img src="https://media0.giphy.com/media/zhRA0okWxTGiu78uSk/giphy.gif" width="260"/>
-<img src="https://media3.giphy.com/media/DqiMTFxiXx0VaVZQbF/giphy.gif" width="260"/>
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100%" />
 
-<p>
-Anime • Manga • Games • Stories that hit deep
-</p>
-
-**Currently stuck on:**
-- 🎮 Brawlhalla  
-- 📖 One Piece (yes, still)  
-- 🍥 Horimiya rewatch  
-
-</div>
-
----
-
-## 📊 GitHub Pulse
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api
-  ?username=logicc-17
-  &show_icons=true
-  &theme=radical
-  &hide_border=true"
-  width="48%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/
-  ?username=logicc-17
-  &layout=compact
-  &theme=radical
-  &hide_border=true"
-  width="48%"/>
-
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/logicc-17/logicc-17/output/snake.svg" width="100%" />
-</div>
-
----
-
-## 🤝 Let’s Connect
-
-<div align="center">
-
-<a href="https://twitter.com/yokaii101">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-</a>
-
-<a href="mailto:heisthemba@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+```txt
+Session remains open.
+Signals still coming in.
+```
 
 </div>
