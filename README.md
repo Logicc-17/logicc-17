@@ -85,7 +85,7 @@ Keys are negotiated.
 Trust is never assumed.
 
 I’m interested in what happens
-before encryption works —
+before encryption works
 and after it fails.
 ```
 
@@ -134,9 +134,10 @@ I see layers.
 ### 🛠️ `BUILD_PIPELINE`
 
 ```txt
-think → break → rebuild
-observe → test → refine
-read docs → read source → read behavior
+think → overthink → break → cry → rebuild
+observe → test → refine → accidentally make it 37% faster
+read docs → read source → read behavior → write angry comment
+ship → pray → hotfix at 2:47 AM
 ```
 
 <div align="center">
