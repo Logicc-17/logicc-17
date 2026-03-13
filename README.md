@@ -91,7 +91,9 @@ and after it fails.
 
 - Protocols, not buzzwords  
 - Behavior under attack, not theory  
-- Curiosity over credentials  
+- Curiosity over credentials
+- LOL
+- 
 
 ---
 
