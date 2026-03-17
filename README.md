@@ -7,7 +7,7 @@
 <br/>
 
 <h1 style="font-family: monospace; color: #00ffee;">
-> SYSTEM ONLINE
+> SYSTEM ONLINE<
 </h1>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code+Bold&size=28&pause=1000&color=FF073A&center=true&vCenter=true&width=600&lines=Themba+Longwe;Full-Stack+Developer;Exploring+Systems%2C+Signals%2C+and+Entropy;Curiosity+Driven+Builder" />
