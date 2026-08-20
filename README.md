@@ -4,6 +4,7 @@
 
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc25henhzMmQ1bnlreGsyYzJxeDhqb3R2OWhjZGQzM2d0ZzRhNXR3diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l8G8sdTRURRBANPpPR/giphy.gif" width="100%" height="100%" />
 
+
 <br/>
 
 <h1 style="font-family: monospace; color: #00ffee;">
@@ -152,6 +153,7 @@ ship → pray → hotfix at 2:47 AM
 <!-- =====================[ TERMINAL FOOTER ]===================== -->
 
 <div align="center">
+<img src ="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmR1NHF0bTVtZHJsa2IwMXc0YXVocXBhMmpmYnQzNGZ4dHdkamtzaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9r8BF7Cdjkr0f4LLXF/giphy.gif"  width="100%"/>
 
 <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100%" />
 
